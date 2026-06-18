@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "description": "Basic programming languages",
+    "transcript": "I have been working with Python and Java for the past five years.",
+    "expected_skills": ["Python", "Java"]
+  },
+  {
+    "id": 2,
+    "description": "Full stack web developer",
+    "transcript": "I built a full stack application using React on the frontend and Django on the backend with a PostgreSQL database.",
+    "expected_skills": ["React", "Django", "PostgreSQL"]
+  },
+  {
+    "id": 3,
+    "description": "Cloud and DevOps engineer",
+    "transcript": "My primary cloud experience is with AWS. I have deployed containerised workloads using Docker and Kubernetes.",
+    "expected_skills": ["AWS", "Docker", "Kubernetes"]
+  },
+  {
+    "id": 4,
+    "description": "Misspellings – Python and Docker",
+    "transcript": "I have worked with Pythn and Dockerr in production environments.",
+    "expected_skills": ["Python", "Docker"]
+  },
+  {
+    "id": 5,
+    "description": "Aliases – js and nodejs",
+    "transcript": "I am proficient in js and use nodejs for backend services.",
+    "expected_skills": ["JavaScript", "Node.js"]
+  },
+  {
+    "id": 6,
+    "description": "Aliases – Amazon Web Services and Google Cloud",
+    "transcript": "We migrated our infrastructure from amazon web services to google cloud platform.",
+    "expected_skills": ["AWS", "GCP"]
+  },
+  {
+    "id": 7,
+    "description": "Mixed casing",
+    "transcript": "I use PYTHON, django, TypeScript, and MONGODB daily.",
+    "expected_skills": ["Python", "Django", "TypeScript", "MongoDB"]
+  },
+  {
+    "id": 8,
+    "description": "Duplicate skills",
+    "transcript": "Python Python AWS AWS Docker Docker are my main skills.",
+    "expected_skills": ["Python", "AWS", "Docker"]
+  },
+  {
+    "id": 9,
+    "description": "Long detailed answer with many skills",
+    "transcript": "Over the course of my career I have worked extensively with Python and TypeScript as my primary programming languages. On the backend I favour FastAPI or Django depending on the project size. For databases I rely on PostgreSQL for relational data and Redis for caching. Our cloud infrastructure runs on AWS and we use Terraform for infrastructure as code. Containerisation is handled by Docker and Kubernetes manages our cluster. CI/CD pipelines run on Jenkins and our source code is managed in GitHub.",
+    "expected_skills": ["Python", "TypeScript", "FastAPI", "Django", "PostgreSQL", "Redis", "AWS", "Terraform", "Docker", "Kubernetes", "Jenkins", "GitHub"]
+  },
+  {
+    "id": 10,
+    "description": "Alias – reactjs and expressjs",
+    "transcript": "I built a SPA with reactjs and the API layer uses expressjs.",
+    "expected_skills": ["React", "Express.js"]
+  },
+  {
+    "id": 11,
+    "description": "Fuzzy – Kubernetes misspelling",
+    "transcript": "We orchestrate containers with Kuberenetes.",
+    "expected_skills": ["Kubernetes"]
+  },
+  {
+    "id": 12,
+    "description": "Fuzzy – PostgreSQL misspelling",
+    "transcript": "Our primary database is Postgress.",
+    "expected_skills": ["PostgreSQL"]
+  },
+  {
+    "id": 13,
+    "description": "Alias – golang",
+    "transcript": "I recently switched to golang for writing high-throughput microservices.",
+    "expected_skills": ["Go"]
+  },
+  {
+    "id": 14,
+    "description": "Multi-category mix",
+    "transcript": "I use Kotlin and Swift for mobile development, MongoDB and Redis for data storage, Firebase for real-time features, and deploy on Azure with Ansible playbooks.",
+    "expected_skills": ["Kotlin", "Swift", "MongoDB", "Redis", "Firebase", "Azure", "Ansible"]
+  },
+  {
+    "id": 15,
+    "description": "Alias – k8s and tf",
+    "transcript": "Infrastructure is managed with terraform and containers run on k8s.",
+    "expected_skills": ["Terraform", "Kubernetes"]
+  },
+  {
+    "id": 16,
+    "description": "C-family languages",
+    "transcript": "My systems programming background includes C, C++, and C# for game development.",
+    "expected_skills": ["C", "C++", "C#"]
+  },
+  {
+    "id": 17,
+    "description": "Fuzzy – Django misspelling",
+    "transcript": "My favourite Python framework is Jangoo.",
+    "expected_skills": ["Python", "Django"]
+  },
+  {
+    "id": 18,
+    "description": "DevOps heavy answer",
+    "transcript": "I manage CI/CD with Jenkins and GitLab pipelines. Servers are provisioned via Terraform and Ansible. We use Linux (Ubuntu) as our base OS and Nginx as a reverse proxy. All code is tracked in GitHub.",
+    "expected_skills": ["Jenkins", "GitLab", "Terraform", "Ansible", "Linux", "Nginx", "GitHub"]
+  },
+  {
+    "id": 19,
+    "description": "Alias – microsoft azure",
+    "transcript": "Our team is fully invested in the microsoft azure ecosystem.",
+    "expected_skills": ["Azure"]
+  },
+  {
+    "id": 20,
+    "description": "Comprehensive 5-category transcript",
+    "transcript": "I am a full stack engineer who codes in Python, JavaScript, and Go. I build REST APIs with Flask and FastAPI, and use React with Next.js for the frontend. Data is stored in MySQL and Cassandra, with Redis for caching. We host everything on AWS and GCP, and the whole deployment pipeline is orchestrated with Docker, Kubernetes, Terraform, and GitHub Actions running on Jenkins.",
+    "expected_skills": ["Python", "JavaScript", "Go", "Flask", "FastAPI", "React", "Next.js", "MySQL", "Cassandra", "Redis", "AWS", "GCP", "Docker", "Kubernetes", "Terraform", "GitHub", "Jenkins"]
+  }
+]
